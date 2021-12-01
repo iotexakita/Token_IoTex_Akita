@@ -2,11 +2,18 @@
 // Community-driven Meme Akita on IOTEX!!!
 // HOLD IOTEXAKITA
 // 
+
+//   🌎 Website: http://akitaiotex.com/
+//   🐦Twitter: https://twitter.com/IoAkita
+//   📱 Telegram: https://t.me/IotexAkita
+//   🌎 Telegram Channel : https://t.me/IotexAkitaChannel
+//   🌐 Medium : https://medium.com/@iotexakita
+//   🌐 Github : https://github.com/iotexakita
+//   🌐 Reddit : https://www.reddit.com/user/Iotex_Akita
 //
-// 📱 Telegram: https://t.me/IotexAkita
-// 🌎 Website: https://iotexakita.com/
-// 🌐 Twitter: https://twitter.com/IoAkita
-//
+
+
+
 
 pragma solidity ^0.6.12;
 // SPDX-License-Identifier: Unlicensed
@@ -722,7 +729,7 @@ contract IoTexAkita is Context, IERC20, Ownable {
     bool inSwapAndLiquify;
     bool public swapAndLiquifyEnabled = false;
    
-    uint256 public _maxTxAmount = 800000000 * 10**9;
+    uint256 public _maxTxAmount = 500000000 * 10**9;
     uint256 private numTokensSellToAddToLiquidity = 10000000 * 10**9;
    
     event MinTokensBeforeSwapUpdated(uint256 minTokensBeforeSwap);
@@ -1148,3 +1155,14 @@ contract IoTexAkita is Context, IERC20, Ownable {
     }
 
 }
+
+
+//
+// Community-driven Meme Akita on IOTEX!!!
+// HOLD IOTEXAKITA
+// 
+
+//   🌎 Website: http://akitaiotex.com/
+//   🐦Twitter: https://twitter.com/IoAkita
+//   📱 Telegram: https://t.me/IotexAkita
+//   🌎 Telegram Channel : https://t.me/IotexAkitaChannel
